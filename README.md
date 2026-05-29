@@ -10,7 +10,7 @@ The solution continuously monitors EC2 instances, generates alerts when CPU util
 
 ## Architecture Diagram
 
-![Architecture Diagram](Architecture-Diagram/aws-monitoring-automation-architecture-diagram.png)
+![Architecture Diagram](Architecture-Diagram/aws-monitoring-automation-architecture-diagram.png.png)
 
 ---
 
